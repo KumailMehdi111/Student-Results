@@ -26,3 +26,4 @@ elif dis == "all":
     maximum()
     average()    
     minimum()
+print("Good bye ")
